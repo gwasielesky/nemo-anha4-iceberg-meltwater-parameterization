@@ -17,3 +17,13 @@ The simulations use the **Arctic and Northern Hemisphere Atlantic (ANHA4)** conf
 
 The scripts included in this repository reproduce the analyses presented in the associated manuscript and are intended to facilitate transparency and reproducibility of the study.
 
+## Data availability
+
+The model outputs used in this repository are archived on Zenodo:
+
+- Miscellaneous outputs (tracers, transports, sea ice, hydrography): [10.5281/zenodo.22672545](https://doi.org/10.5281/zenodo.22672545)
+- Salinity: [DOI]
+- Temperature: [DOI]
+- Zonal velocity: [DOI]
+- Meridional velocity: [DOI]
+
